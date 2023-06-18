@@ -1,10 +1,13 @@
 /* ******* Custom Properties ******* */
+
 :root {
-    --first-color: #D90062;
-    --first-alpha-color: #D90062BF;
+    /* --first-color: #D90062;  */
+    /* --first-alpha-color: rgba(217, 0, 98, 0.75); */
+    --first-color: #007ad9; 
+    --first-alpha-color: #107accb3;
     --second-color: #14192D;
     --second-alpha-color: #14192DBF;
-    --third-color: #501464;
+    --third-color: #0f3e3a;
     --third-alpha-color: #501464BF;
     --white-color: #FFFFFF;
     --gray-light-color: #F3F3F3;
@@ -197,7 +200,7 @@ p{
 }
 
 .hero-image-title{
-    font-size: 7.5vw;
+    font-size: 6.5vw;
     color: var(--hero-text-color);
 }
 
