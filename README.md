@@ -1,3 +1,7 @@
 # PORTAFOLIO CV
 
-Portafolio CV de Luciano Navarro creado gracias a las clases brindadas en YouTube por el profesor @jonmircha.
+Repositorio de Luciano Navarro para el taller de maquetación brindado por el profesor @jonmircha desde YouTube.
+
+## Proyectos
+
+-[Landing Page de tipo Portafolio-CV](https://Coderman47.github.io/Portafolio-CV)
