@@ -391,6 +391,12 @@ progress::-moz-progress-value{
     width: 250px;
 }
 
+.section-article-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .text-center{
     text-align: center;
 }
@@ -552,6 +558,10 @@ grid-auto-rows: 2rem;
 
 .portfolio-details b{
     color: var(--first-color);
+}
+
+.portfolio-details a{
+    text-decoration: none;
 }
 .service-card{
     margin: 1rem auto;
