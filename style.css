@@ -311,6 +311,19 @@ p{
     pointer-events: auto;
 }
 
+/* ******* Skills-Icons ******* */
+.skillIconsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.skillIcon{
+    width: 14%;
+    margin: 10px;
+    text-align: center;
+}
+
+
 /* ******* ProgressBar ******* */
 
 progress{
@@ -421,6 +434,11 @@ progress::-moz-progress-value{
 
 .text-lg-left{
     text-align: left;
+}
+
+.text-lg-left2{
+    text-align: left;
+    margin-left: .6rem;
 }
 
 .text-lg-right{
