@@ -4,9 +4,6 @@ FROM node:20-alpine AS build
 # Definir directorio de trabajo
 WORKDIR /app
 
-# Copiamos dependencias primero para aprovechar la caché
-COPY package*.json ./
-
 # Instalamos dependencias (usa npm ci si tenés package-lock.json)
 RUN npm ci
 
